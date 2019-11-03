@@ -1,6 +1,6 @@
 instances of Chair class
 
-Lazyboy Recliner
-Metal Stool
-Rolling Office Chair
-Camping Stool
+Object: "Lazyboy Recliner"
+Object: "Metal Stool"
+Object: "Rolling Office Chair"
+Object "Camping Stool"
