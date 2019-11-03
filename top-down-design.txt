@@ -1,0 +1,59 @@
+Doing Laundry
+1 Take clothes to washing machine
+  1.1 Walk to closet
+  1.2 Locate dirty clothes basket
+  1.3 Pick up basket
+    1.3.1 Reach out arms towards basket
+    1.3.2 Grasp basket with hands
+    1.3.3 Lift arms up
+  1.4 Walk to washing machine
+    1.4.1 Leave closet
+    1.4.2 Leave bedroom
+    1.4.3 Walk forward down hall
+  1.5 Put down laundry basket
+  1.6 Open laundry room door
+  1.7 Open washing machine
+    1.7.1 Reach hand towards washing machine door handle
+    1.7.2 Pull washing machine door handle
+  1.8 Take dirty laundry out of basket and put into washing machine
+    1.8.1 Reach down into laundry basket
+    1.8.2 Grab arm full of dirty clothes
+    1.8.3 Put dirty clothes in washing machine
+  1.9 Close washing machine door
+2. Start washing machine
+  2.1 Choose cycle
+    2.1.1 Push chosen cycle button
+  2.2 Choose temperature
+    2.2.1 Push temperature button
+  2.3 Add laundry detergent
+    2.3.1 Open laundry detergent compartment
+    2.3.2 Pick up laundry detergent
+    2.3.3 Pour laundry detergent into detergent compartment
+    2.3.4 Close laundry detergent compartment
+  2.4 Push start button
+  2.5 Wait for buzzer
+3 Move clothes to dryer
+  3.1 Open washing machine
+    3.1.1 Reach hand toward washing machine door handle
+    3.1.2 Pull washing machine door handle
+  3.2 Open dryer
+    3.2.1 Reach hand toward washing machine door handle
+    3.2.2 Pull washing machine door handle
+  3.2 Reach arms into washing machine and pull out clothes
+  3.3 Put arm full of clothes into dryer
+  3.4 Put dryer sheet in dryer
+    3.4.1 Reach into dryer sheet box
+    3.4.2 Pull out one dryer sheet
+    3.4.3 Place dryer sheet into dryer
+  3.4 Close dryer
+4 Start dryer
+  4.1 Push start button
+  4.2 Wait for clothes to be dry
+5 Take clothes to bedroom
+  5.1 Open dryer
+  5.2 Reach into dryer and grab clothes
+  5.3 Place clothes in laundry basket
+  5.4 Carry laundry basket to bedroom
+  5.5 Dump out laundry basket on bed to fold
+6 Fold clothes
+7 Put away clothes

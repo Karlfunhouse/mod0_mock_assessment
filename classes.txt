@@ -1,0 +1,15 @@
+Chair class
+
+attributes:
+legs (integer)
+materialType (string)
+weightLimit (integer)
+currentLocation (string)
+color (string)
+flammable (boolean)
+
+Methods:
+changeMaterialType (changes the materialType attribute)
+shipChairToUSA (changes currentLocation to USA)
+addExtraLeg (increases legs number by 1)
+lightChairOnFire (if it burns returns true, if it doesn't then false)

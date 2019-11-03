@@ -1,0 +1,6 @@
+instances of Chair class
+
+Lazyboy Recliner
+Metal Stool
+Rolling Office Chair
+Camping Stool
